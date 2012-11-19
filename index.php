@@ -54,11 +54,11 @@
     <![endif]-->
 
     <!-- Fav and touch icons -->
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+<!--     <link rel="shortcut icon" href="assets/ico/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png"> -->
   </head>
 
   <body>
@@ -70,7 +70,7 @@
 <!--           <li class="active"><a href="#">Home</a></li> -->
 <!--           <li><a href="#">About</a></li> -->
 <!--           <li><a href="#">Contact</a></li> -->
-            <li>Questions: +1 888-979-7050</li>
+            <li>Questions?: +1 888-979-7050</li>
         </ul>
         <h3 class="muted">temps.io</h3>
       </div>
@@ -90,26 +90,26 @@
         <div class="span6">
           <h2>For Companies:</h2>
           <h4>Save Time</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+          <p>Stop reading resumes.  Smart pre-screened people who show up at your office ready for anything you throw at 'em.</p>
 
           <h4>Get Smart People</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+          <p>These are people you will want to hire. They have been vetted by startup veterans.</p>
 
           <h4>Keep Your Culture</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+          <p>We get startup culture. We'll send people who are culture fits or you send them back.</p>
           <a class="btn btn-large btn-success" href="https://docs.google.com/spreadsheet/viewform?formkey=dExWQ0pnRFdEcjg5ZWU2empBZE11aWc6MQ">I need people!</a>
         </div>
 
         <div class="span6">
           <h2>For People:</h2>
           <h4>Try something new</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+          <p>Ever wanted to work at a startup? Get challenged and rewarded every hour of the day.</p>
 
           <h4>Get your foot in the door</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+          <p>We know the fastest growing startups who need your help.  Get your foot in the door before your friends read about it on TechCrunch.</p>
 
-          <h4></h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+          <h4>Get Ready to IPO</h4>
+          <p>The more startups you work for, the more you know to start your own or help build a winner.</p>
           <a class="btn btn-large btn-success" href="https://docs.google.com/spreadsheet/viewform?formkey=dHVsREJ4ZktCWXppa2hydTRrVHI4ZVE6MQ">I'm available!</a>
         </div>
       </div>
