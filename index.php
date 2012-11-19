@@ -79,7 +79,7 @@
 
       <div class="jumbotron">
         <h1>Because you needed more people yesterday.</h1>
-        <p class="lead">Simple Smart Screened Temps for Startups!</p>
+        <p class="lead">Amazing Pre-Screened Temps for Startups!</p>
         <a class="btn btn-large btn-success" href="https://docs.google.com/spreadsheet/viewform?formkey=dExWQ0pnRFdEcjg5ZWU2empBZE11aWc6MQ">I need people!</a>
         <a class="btn btn-large btn-success" href="https://docs.google.com/spreadsheet/viewform?formkey=dHVsREJ4ZktCWXppa2hydTRrVHI4ZVE6MQ">I'm available!</a>
       </div>
